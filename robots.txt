@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aboahngidhaback.github.io/apps-hthcn-com-cn/sitemap.xml
